@@ -8,6 +8,11 @@ HTML, CSS, SASS, JavaScript, TypeScript, React(in progress), Node.js, GIT, Webpa
    - Telegram: [@PavlovKostiantyn](https://t.me.PavlovKostiantyn)   
    - Skype: [Konstantyn Pavlov](https://join.skype.com/invite/NTVF81Ftp66k)   
    
+## My projecs   
+  - # [Shelter-dom](https://kosta4310.github.io/shelter-dom/shelter-dom/pages/main/index.html)
+
+
+
 <!--
 **kosta4310/kosta4310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
