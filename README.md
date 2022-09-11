@@ -1,17 +1,15 @@
 # <p align="center"> Hi, I am Konstantyn. 👋</p>
----
-## <p align="center">🌱 I'm a front-end developer from Kriviy Rih, Ukraine. </p>
-
-## Skills and Qualifications:
+### <p align="center">🌱 I'm a front-end developer from Kriviy Rih, Ukraine. </p>   
+### Skills and Qualifications:
 HTML, CSS, SASS, JavaScript, TypeScript, React(in progress), Node.js, GIT, Webpack, PostgreSQL   
 
    - Telegram: [@PavlovKostiantyn](https://t.me.PavlovKostiantyn)   
    - Skype: [Konstantyn Pavlov](https://join.skype.com/invite/NTVF81Ftp66k)   
    
-## My projecs:   
-  - # [Shelter-dom](https://kosta4310.github.io/shelter-dom/shelter-dom/pages/main/index.html)   
-  - # [Online-store](https://kosta4310.github.io/online-store/dist)   
-  - # [RSLang(command task)](https://rslang-kosta4310.netlify.app/)
+### My projecs:   
+  - ### [Shelter-dom](https://kosta4310.github.io/shelter-dom/shelter-dom/pages/main/index.html)   
+  - ### [Online-store](https://kosta4310.github.io/online-store/dist)   
+  - ### [RSLang(command task)](https://rslang-kosta4310.netlify.app/)
 
 
 
