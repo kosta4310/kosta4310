@@ -9,7 +9,8 @@ HTML, CSS, SASS, JavaScript, TypeScript, React(in progress), Node.js, GIT, Webpa
    - Skype: [Konstantyn Pavlov](https://join.skype.com/invite/NTVF81Ftp66k)   
    
 ## My projecs   
-  - # [Shelter-dom](https://kosta4310.github.io/shelter-dom/shelter-dom/pages/main/index.html)
+  - # [Shelter-dom](https://kosta4310.github.io/shelter-dom/shelter-dom/pages/main/index.html)   
+  - # [Online-store](https://kosta4310.github.io/online-store/dist)   
 
 
 
