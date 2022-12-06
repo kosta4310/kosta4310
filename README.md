@@ -9,7 +9,7 @@ HTML, CSS, SASS, JavaScript, TypeScript, React(in progress), Node.js, GIT, Webpa
 ### My projecs:   
   - ### [Shelter-dom](https://kosta4310.github.io/shelter-dom/shelter-dom/pages/main/index.html)   
   - ### [Online-store](https://kosta4310.github.io/online-store/dist)   
-  - ### [RSLang(command task)](https://rslang-kosta4310.netlify.app/)
+  - ### [RSLang](https://rslang-kosta4310.netlify.app/)
 
 
 
