@@ -1,5 +1,5 @@
 # <p align="center"> Hi, I am Konstantyn. 👋</p>
-### <p align="center">🌱 I'm a front-end developer from Kriviy Rih, Ukraine. </p>   
+### <p align="center">🌱 I'm a React developer from Kriviy Rih, Ukraine. </p>   
 ### Skills and Qualifications:
 HTML, CSS, SASS, JavaScript, TypeScript, React(in progress), Node.js, GIT, Webpack, PostgreSQL   
 
