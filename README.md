@@ -6,7 +6,8 @@ HTML, CSS, SASS, JavaScript, TypeScript, React(in progress), Node.js, GIT, Webpa
    - Telegram: [@PavlovKostiantyn](https://t.me.PavlovKostiantyn)   
    - Skype: [Konstantyn Pavlov](https://join.skype.com/invite/NTVF81Ftp66k)   
    
-### My projecs:   
+### My projecs:  
+  - ### [Project Management App - RS Trello](https://project-management-app-seala11.netlify.app/)
   - ### [Shelter-dom](https://kosta4310.github.io/shelter-dom/shelter-dom/pages/main/index.html)   
   - ### [Online-store](https://kosta4310.github.io/online-store/dist)   
   - ### [RSLang](https://rslang-kosta4310.netlify.app/)
