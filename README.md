@@ -1,7 +1,7 @@
 # <p align="center"> Hi, I am Konstantyn. 👋</p>
 ### <p align="center">🌱 I'm a React/Frontend developer from Kriviy Rih, Ukraine. </p>   
 ### Skills and Qualifications:
-HTML, CSS, SASS, JavaScript, TypeScript, React(in progress), Node.js, GIT, Webpack, PostgreSQL   
+React, JavaScript, TypeScript, Node.js, HTML, CSS, SASS, GIT, Webpack, PostgreSQL   
 
    - Telegram: [@PavlovKostiantyn](https://t.me.PavlovKostiantyn)   
    - Skype: [Konstantyn Pavlov](https://join.skype.com/invite/NTVF81Ftp66k)   
